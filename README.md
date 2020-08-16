@@ -5,3 +5,4 @@ To do
   ii. For Students
 2. Student Profile
 3. Faculty Information
+4. Student Results

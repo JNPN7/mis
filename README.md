@@ -19,6 +19,8 @@ Faculty choice subs,
 Drawbacks, 
 Plus points, 
 Attendance, 
+Student's library details,
+Student's financial transaction history?,
 Grades according to each subject teacher, 
 
 Teacher info:
@@ -28,3 +30,7 @@ Subject,
 Salary, 
 Drawbacks, 
 Plus point, 
+
+student's review
+
+

@@ -10,6 +10,8 @@ To do
 2. Student Profile
 3. Faculty Information
 4. Student Results
+5. chatBox(Optional)
+6. Official Notice
 
 Stds info:
 Profile, 

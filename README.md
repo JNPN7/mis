@@ -10,3 +10,21 @@ To do
 2. Student Profile
 3. Faculty Information
 4. Student Results
+
+Stds info:
+Profile
+Background
+Results
+Faculty choice subs
+Drawbacks
+Plus points
+Attendance
+Grades according to each subject teacher
+
+Teacher info:
+Profile
+Background/experience
+Subject
+Salary
+Drawbacks
+Plus point

@@ -12,19 +12,19 @@ To do
 4. Student Results
 
 Stds info:
-Profile
-Background
-Results
-Faculty choice subs
-Drawbacks
-Plus points
-Attendance
-Grades according to each subject teacher
+Profile, 
+Background, 
+Results, 
+Faculty choice subs, 
+Drawbacks, 
+Plus points, 
+Attendance, 
+Grades according to each subject teacher, 
 
 Teacher info:
-Profile
-Background/experience
-Subject
-Salary
-Drawbacks
-Plus point
+Profile, 
+Background/experience, 
+Subject, 
+Salary, 
+Drawbacks, 
+Plus point, 

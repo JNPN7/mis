@@ -10,8 +10,6 @@ To do
 2. Student Profile
 3. Faculty Information
 4. Student Results
-5. chatBox(Optional)
-6. Official Notice
 
 Stds info:
 Profile, 
@@ -22,7 +20,7 @@ Drawbacks,
 Plus points, 
 Attendance, 
 Student's library details,
-Student's financial transaction history?,
+Student's financial transaction history,
 Grades according to each subject teacher, 
 
 Teacher info:
@@ -34,5 +32,5 @@ Drawbacks,
 Plus point, 
 
 student's review
-
+college events, notice, routines
 

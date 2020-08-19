@@ -36,3 +36,4 @@ college events, notice, routines
 
 Mechanism to notify parents about status of their children as well as fees.
 Project should be able to do a little of data analysis too.
+Graphical representation of students progress
